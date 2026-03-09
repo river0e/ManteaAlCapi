@@ -15,7 +15,7 @@
     </td>
     <td valign="top" width="55%" align="left">
       <h3>¿Hasta dónde puedes llegar sin que se estrelle?</h3>
-      <p>Toca la pantalla para mantener a este adorable capibara en el aire y acompáñalo en un viaje épico desde el salón de su casa hasta los confines del universo. ¡Pero cuidado con la gravedad, porque cada vez caerá más rápido!</p>
+      <p>Toca la pantalla o dale click/barra espaciadora para mantener a este adorable capibara en el aire y acompáñalo en un viaje épico desde el salón de su casa hasta los confines del universo. ¡Pero cuidado con la gravedad, porque cada vez caerá más rápido!</p>
       <br>
       <hr>
       <h2>🎮 Características del juego</h2>

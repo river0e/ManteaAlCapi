@@ -28,11 +28,10 @@
 </table>
 
 ---
-
 <div align="center">
 
 ### ¿Tienes los reflejos necesarios para llevar al Capi al espacio exterior?
 
-## [📥 ¡Descarga el APK para Android aquí y descúbrelo!](TU_ENLACE_A_LA_RELEASE_AQUI_O_DEJALO_ASI)
+## [📥 ¡Descarga el APK para Android aquí y descúbrelo!](https://github.com/river0e/ManteaAlCapi/releases/tag/1)
 
 </div>

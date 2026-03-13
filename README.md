@@ -32,6 +32,6 @@
 
 ### ¿Tienes los reflejos necesarios para llevar al Capi al espacio exterior?
 
-## [📥 ¡Descarga el APK para Android aquí y descúbrelo!](https://github.com/river0e/ManteaAlCapi/releases/tag/1)
+## [📥 ¡Descarga el APK para Android o escritorio aquí y descúbrelo!](https://github.com/river0e/ManteaAlCapi/releases/tag/1)
 
 </div>
